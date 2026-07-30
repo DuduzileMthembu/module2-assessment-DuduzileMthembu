@@ -1,0 +1,7 @@
+These are the commands I used on Git
+
+Git init- To initialise the repository
+Git status- To check the status of my repository
+Git add - To stage all my changes
+Git commit -m -To commit my changes and save a snapshot with a description
+Git log - To show my commit history

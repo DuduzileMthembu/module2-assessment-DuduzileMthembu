@@ -13,3 +13,4 @@ These are the steps I took to create a repository on VSCode
 -commit the work
 -under graph go to push
 -then open Github and refresh to view the uploaded files
+-go to <code> then copy link.

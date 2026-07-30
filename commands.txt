@@ -1,7 +1,15 @@
-These are the commands I used on Git
+These are the commands I used on Git 
 
 Git init- To initialise the repository
 Git status- To check the status of my repository
 Git add - To stage all my changes
 Git commit -m -To commit my changes and save a snapshot with a description
 Git log - To show my commit history
+
+These are the steps I took to create a repository on VSCode
+-initialise repository
+-Add the changes using the plus sign
+-write the desciption messgae 
+-commit the work
+-under graph go to push
+-then open Github and refresh to view the uploaded files
